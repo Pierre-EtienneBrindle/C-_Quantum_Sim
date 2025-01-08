@@ -2,6 +2,7 @@
 #include <string>
 #include "Core/logger.cpp"
 #include "Math/complexe_number.cpp"
+#include "Math/Headers/matrice.hpp"/
 using namespace core;
 using namespace math;
 
